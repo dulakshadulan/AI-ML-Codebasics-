@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "6838255d6b040e4c892eed5e"
+  },
+  "name": "Dualn",
+  "age": 21,
+  "gpa": 3.98,
+  "Home": "Homeless"
+},
+{
+  "_id": {
+    "$oid": "683825ff6b040e4c892eed60"
+  },
+  "name": "Nazeem",
+  "age": 46,
+  "gpa": 2.98,
+  "Home": "Homeless"
+},
+{
+  "_id": {
+    "$oid": "683825ff6b040e4c892eed61"
+  },
+  "name": "Dulan",
+  "age": 21,
+  "gpa": 3.98,
+  "yesorno": true,
+  "Home": "notHomless"
+},
+{
+  "_id": {
+    "$oid": "683825ff6b040e4c892eed62"
+  },
+  "name": "Mulan",
+  "age": 45,
+  "gpa": 2.34,
+  "Home": "Homeless"
+},
+{
+  "_id": {
+    "$oid": "683c689c7d50682a1f6c4bd0"
+  },
+  "name": "Dial",
+  "age": 23,
+  "is_married": true,
+  "Home": "Homeless"
+},
+{
+  "_id": {
+    "$oid": "683c69937d50682a1f6c4bd1"
+  },
+  "name": "Dial",
+  "age": 23,
+  "is_married": true,
+  "array": [
+    "puka",
+    23,
+    false
+  ],
+  "date": {
+    "$date": "2021-03-21T07:13:56.000Z"
+  },
+  "pp": {
+    "name": "helo",
+    "age": 23
+  },
+  "Home": "Homeless"
+}]
